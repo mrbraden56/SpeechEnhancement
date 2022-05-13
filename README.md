@@ -70,12 +70,7 @@ This is the goal of this project.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Font Awesome](https://fontawesome.com)
+* [Sthalles](https://sthalles.github.io/practical-deep-learning-audio-denoising/#:~:text=Introduction,degrading%20the%20signal%20of%20interest.&text=In%20this%20situation%2C%20a%20speech,to%20improve%20the%20speech%20signal.)
 * [othneildrew github](https://github.com/othneildrew)
 
 
