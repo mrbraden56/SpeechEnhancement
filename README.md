@@ -61,11 +61,6 @@ This is the goal of this project.
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="Logo" width="100" height="100">
        <br />
  </a>
- 
- <a href="http://pydub.com/">
-    <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_86c4f17e5b0c4fc3d86420b9c7c5894c/pydub.png" alt="Logo" width="100" height="100">
-       <br />
- </a>
 
 
 
