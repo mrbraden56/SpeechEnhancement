@@ -29,11 +29,6 @@
 
 This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fully Convolutional Neural Network for Speech Enhancement</a>. This research paper presents a method for speech enhancement that can be used in hearing aids. The model I trained in this repo was also used in a web app for speech enhancement in my senior design class and you can see that <a href="https://github.com/jrhaxton/JayHear">here</a>.
 
-<a>
-    <img src="https://miro.medium.com/max/600/1*nqzWupxC60iAH2dYrFT78Q.png" alt="Logo" width="1100" height="500">
- </a>
-
-
 ### Built With
 
 
