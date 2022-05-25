@@ -31,9 +31,11 @@ This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fu
 
 <!-- RESULTS! -->
 ## Results
-<a>
-    <img src="Audio/experiment25.png" alt="Logo" width="700" height="500">
-  </a>
+<p align="center">
+  <a>
+      <img src="Audio/experiment25.png" alt="Logo" width="700" height="500">
+    </a>
+  </p>
 
 <!-- BUILT WITH! -->
 ## Built With
