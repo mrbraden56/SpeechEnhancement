@@ -36,6 +36,7 @@ This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fu
       <img src="Audio/experiment25.png" alt="Logo" width="700" height="500">
     </a>
   </p>
+  Here you can see a spectrogram of the clean audio, clean audio with noise added onto it, and finally the denoised audio.
 
 <!-- BUILT WITH! -->
 ## Built With
