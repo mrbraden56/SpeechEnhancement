@@ -27,21 +27,12 @@
     <img src="https://miro.medium.com/max/1182/1*OOTqBsjpuXyfYJVdPxWtBA.png" alt="Logo" width="1100" height="500">
   </a>
 
-What do you hear when you walk into a fast food joint during the peak hours of lunch time? Noise, noise, and more noise. It is hard to even think with everyone taking orders, the chefs screaming at eachother in the back, and all the chattering happening. Its as if everything is amplified x5!
-
-This is the problem with modern hearing aids. It aims to amplify everything instead of only what is important. We want to hear meaningful things like friends and loved one not everything all at once. This is what this project aims to do. We apply deep learning to noise so that it removes the unnecessary noise and keeps the important ones. We do this through a deep learning technique called auto encoders.
+This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fully Convolutional Neural Network for Speech Enhancement</a>
 
 <a>
     <img src="https://miro.medium.com/max/600/1*nqzWupxC60iAH2dYrFT78Q.png" alt="Logo" width="1100" height="500">
  </a>
 
-
-As you can see from above, what the auto encoder does is compress the image and then reconstructs that same image. You might be asking what is the point of that? Noise can be viewed as a image called a spectrogram. If you are in a resteraunt the spectrogram will have a lot of noise in the image. The auto encoder aims to take in that noisy spectrogram and reconstruct it so that the noise has been removed from the spectrogram.
-
-This is the goal of this project.
-* Take in a noisy spectrogram from a loud environment
-* Apply deep learning so that it removes the noise
-* Return a clean spectrogram that only has noise of what you care about
 
 ### Built With
 
