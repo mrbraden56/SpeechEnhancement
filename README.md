@@ -37,7 +37,10 @@ This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fu
     </a>
   </p>
   Here you can see a spectrogram of the clean audio, clean audio with noise added onto it, and finally the denoised audio. You can see in the denoised audio that the audio with the highest db have great reconstruction, however, the lower the db is the worse the reconstruction gets. Here is an example of noisy audio and then the denoised version.
- * ![](Audio/noisy12006_SNRdb_0.0_clnsp12006.wav)
+
+ <audio controls="controls">
+  <source type="audio/wav" src="Audio/noisy12006_SNRdb_0.0_clnsp12006.wav"></source>
+</audio>
 
 <!-- BUILT WITH! -->
 ## Built With
