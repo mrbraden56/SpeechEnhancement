@@ -36,7 +36,7 @@ This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fu
       <img src="Audio/experiment25.png" alt="Logo" width="700" height="500">
     </a>
   </p>
-  Here you can see a spectrogram of the clean audio, clean audio with noise added onto it, and finally the denoised audio. You can see in the denoised audio that the audio with the highest db have great reconstruction, however, the lower the db is the worse the reconstruction gets. You can compare the noisy and denoised audio files <a href="https://mrbraden56.github.io/audio">here</a>.
+  Here you can see a spectrogram of the clean audio, clean audio with noise added onto it, and finally the denoised audio. You can see in the denoised audio that the audio with the highest db have great reconstruction, however, the lower the db is the worse the reconstruction gets. You can compare the noisy and denoised audio files <a href="https://mrbraden56.github.io/#/audiofiles">here</a>.
 
  <audio controls="controls">
   <source type="audio/wav" src="Audio/noisy12006_SNRdb_0.0_clnsp12006.wav"></source>
