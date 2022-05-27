@@ -27,7 +27,9 @@
     <img src="https://miro.medium.com/max/1182/1*OOTqBsjpuXyfYJVdPxWtBA.png" alt="Logo" width="1100" height="500">
   </a>
 
-This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fully Convolutional Neural Network for Speech Enhancement</a>. This research paper presents a method for speech enhancement that can enhance the quality of hearing for hearing aid users. The model I trained in this repo was also used in a web app for speech enhancement in my senior design class and you can see that <a href="https://github.com/jrhaxton/JayHear">here</a>.
+This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fully Convolutional Neural Network for Speech Enhancement</a>. This research paper presents a method for speech enhancement that can enhance the quality of understanding speech for hearing aid users. As input, the model takes 8 frames of a noisy spectrogram and outputs the corresponding clean frame. This way the clean frame will have the time and frequency dependencies of the current frame and the past 7. The biggest challenges faced in this project was understanding how to efficiently train and evaluate a model. As a college student, I do not have access to 100 GPU's so I had to be very methodical on how I approached this.
+
+The model I trained in this repo was also used in a web app for speech enhancement in my senior design class and you can see that <a href="https://github.com/jrhaxton/JayHear">here</a>.
 
 <!-- RESULTS! -->
 ## Results
