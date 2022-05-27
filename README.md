@@ -48,6 +48,7 @@ The model I trained in this repo was also used in a web app for speech enhanceme
 
 <!-- WHAT I'D DO DIFFERENTLY! -->
 ## What I'd do Differently
+One of the most imporant lessons I learned in this project was to make a plan. From the start to finish of this project, I probably deleted everything and restarted 3 times. This was due to various reasons including bugs, incorrect feature extraction, and misunderstanding of the machine learning model. If at the begenning I would have laid out a plan such as creating a program flowchart and understanding different loss functions, it would have cut my time in half.
 
 <!-- BUILT WITH! -->
 ## Built With
