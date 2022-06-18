@@ -27,7 +27,7 @@
     <img src="https://miro.medium.com/max/1182/1*OOTqBsjpuXyfYJVdPxWtBA.png" alt="Logo" width="1100" height="500">
   </a>
 
-This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fully Convolutional Neural Network for Speech Enhancement</a>. This research paper presents a method for speech enhancement that can enhance the quality of understanding speech for hearing aid users. As input, the model takes 8 frames of a noisy spectrogram and outputs the corresponding clean frame. This way the clean frame will have the time and frequency dependencies of the current frame and the past 7. 
+This is an implementation of <a href="https://arxiv.org/pdf/1609.07132.pdf">A Fully Convolutional Neural Network for Speech Enhancement</a>. This research paper presents a method for speech enhancement that can enhance the quality of understanding speech for hearing aid users. As input, the model takes 8 frames of a noisy spectrogram and outputs the corresponding clean frame. This way the clean frame will have the time and frequency dependencies of the current frame and the past 7.
 
 The biggest challenges faced in this project was understanding how to efficiently train and evaluate a model. As a college student, I do not have access to 100 GPU's so I had to be very methodical on how I approached this. The method I found most useful was to purposely overfit the model on 1 training example, that way I knew the model worked as it should. Then from there I incrementally increased the amount of data until I found the result that brought me the best model loss.
 
