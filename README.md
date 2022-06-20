@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    Audio Denoiser 
+    Audio Denoiser
     <br />
   </p>
 </p>
