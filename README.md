@@ -21,7 +21,7 @@
 
 
 <!-- ABOUT THE PROJECT! -->
-## About The Project
+## About The Project 
 
 <a>
     <img src="https://miro.medium.com/max/1182/1*OOTqBsjpuXyfYJVdPxWtBA.png" alt="Logo" width="1100" height="500">
